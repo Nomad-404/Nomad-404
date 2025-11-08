@@ -1,28 +1,39 @@
-<img src="https://github.com/Nomad-404.png" width="100" align="right"/>
+<img src="https://github.com/Nomad-404.png" width="100" align="right" alt="Nandagopal P" />
 
-# Hi, I'm Nandagopal P (@Nomad-404) 👋
+# Hi, I'm **Nandagopal P** 👋  
+**`@Nomad-404` • AI/ML Engineer • Flutter Dev**
 
-**AI/ML Engineer | Flutter Dev | MCA '25**
-
-Currently building intelligent community platforms with **Flutter + Firebase**.
-
----
-
-### 🔥 Featured Projects
-| Project | Tech | Link |
-|-------|------|------|
-| **ICommune** | Flutter, Firebase, Firestore | [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Nomad-404/icommune) |
-| **ICommune SecuServ** | Real-time security alerts | [Code](https://github.com/Nomad-404/icommune_secuserv) |
+> *“I build intelligent, scalable systems — from idea to production-ready code.”*
 
 ---
 
-### 🛠️ Tech Stack
-`Python` `TensorFlow` `Flutter` `Firebase` `Dart` `Git` `Docker`
+## 🚀 About Me
+- 🎓 **MCA '25** – [Your College/University]  
+- 💼 Ex-Intern → **[Company Name or “Actively building”]**  
+- 🔥 Specializing in **AI, Flutter, Firebase & Full-Stack Mobile**  
+- 🛠️ Built **ICommune** — a production-grade community platform (100% local deployable)  
+- 📍 **India** • `UTC+5:30`
 
 ---
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/nandagopal-p)  
-nandagopal.p@gmail.com
+## 🔥 Featured Projects
+
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **ICommune** | Full-featured **community OS**: family grouping, service booking, real-time chat, security alerts, admin panel. Designed for **50K+ users**. | Flutter, Firebase Auth, Firestore, Cloud Functions, Dart | [![Repo](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Nomad-404/icommune) <br> *No live demo (free Firestore tier expired) — but **fully deployable in <10 mins*** |
+| **ICommune SecuServ** | Real-time security layer: SOS, guard tracking, geofencing, push alerts. | Flutter, FCM, Google Maps SDK, Firebase | [![Repo](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Nomad-404/icommune_secuserv) |
+| **BCA Projects** *(Archived)* | Academic portfolio: DSA, Web Dev, DBMS | Java, PHP, MySQL | [View](https://github.com/Nomad-404/BCA_Projects) |
+
+> **Pro Tip**: Recruiters value **architecture over uptime**. ICommune is **modular, clean, and ready to scale**.
 
 ---
+
+## 🛠️ Tech Stack
+
+```text
+Flutter         ●●●●●●●●○○
+Firebase        ●●●●●●●●○○
+Dart            ●●●●●●●○○○
+Python          ●●●●●●○○○○
+TensorFlow      ●●●●●○○○○○
+Git / GitHub    ●●●●●●●●●○
