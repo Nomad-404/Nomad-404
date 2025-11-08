@@ -1,9 +1,11 @@
-<img src="https://github.com/Nomad-404.png" width="100" align="right" alt="Nandagopal P" />
+<img src="https://github.com/Nomad-404.png" width="110" align="left" style="margin-right: 20px; border-radius: 50%;"/>
 
 # Hi, I'm **Nandagopal P** 👋  
 **`@Nomad-404` • AI/ML Engineer • Flutter Dev**
 
 > *“I build intelligent, scalable systems — from idea to production-ready code.”*
+
+<br>
 
 ---
 
@@ -24,7 +26,7 @@
 | **ICommune SecuServ** | Real-time security layer: SOS, guard tracking, geofencing, push alerts. | Flutter, FCM, Google Maps SDK, Firebase | [![Repo](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Nomad-404/icommune_secuserv) |
 | **BCA Projects** *(Archived)* | Academic portfolio: DSA, Web Dev, DBMS | Java, PHP, MySQL | [View](https://github.com/Nomad-404/BCA_Projects) |
 
-> **Pro Tip**: Recruiters value **architecture over uptime**. ICommune is **modular, clean, and ready to scale**.
+> **Recruiters care about architecture — not uptime.** ICommune is **modular, clean, and scalable**.
 
 ---
 
