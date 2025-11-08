@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **MCA '25** – [Your College/University]  
+- 🎓 **MCA '25** – [Saintgits College of Engineering]  
 - 💼 Ex-Intern → **[FaceIn Technologies]**  
 - 🔥 Specializing in **AI, Flutter, Firebase & Full-Stack Mobile**  
 - 🛠️ Built **ICommune** — a production-grade community platform (100% local deployable)  
