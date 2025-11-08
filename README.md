@@ -1,4 +1,4 @@
-<img src="https://github.com/Nomad-404.png" width="110" align="left" style="margin-right: 20px; border-radius: 50%;"/>
+<img src="https://github.com/Nomad-404.png" width="110" align="left" style="margin-right: 20px; border-radius: 50% /n;"/>
 
 # Hi, I'm **Nandagopal P** 👋  
 **`@Nomad-404` • AI/ML Engineer • Flutter Dev**
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 - 🎓 **MCA '25** – [Your College/University]  
-- 💼 Ex-Intern → **[Company Name or “Actively building”]**  
+- 💼 Ex-Intern → **[FaceIn Technologies]**  
 - 🔥 Specializing in **AI, Flutter, Firebase & Full-Stack Mobile**  
 - 🛠️ Built **ICommune** — a production-grade community platform (100% local deployable)  
 - 📍 **India** • `UTC+5:30`
