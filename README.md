@@ -1,5 +1,3 @@
-<img src="https://github.com/Nomad-404.png" width="110" align="left" style="margin-right: 20px; border-radius: 50% /n;"/>
-
 # Hi, I'm **Nandagopal P** 👋  
 **`@Nomad-404` • AI/ML Engineer • Flutter Dev**
 
